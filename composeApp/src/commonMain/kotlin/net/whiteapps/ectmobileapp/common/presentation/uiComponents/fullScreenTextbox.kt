@@ -51,7 +51,7 @@ fun FullScreenTextbox(
             Button(onClick = {
                 onCancel()
             }) {
-                Text("Close")
+                Text("Close!")
             }
 
         }
